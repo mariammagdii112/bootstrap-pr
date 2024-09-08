@@ -1,0 +1,41 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+
+/* start end-main sertion */
+.end-main{
+        margin: auto;
+}
+.home-content{
+        margin-left: 40px;
+}
+/* end  end-main section */
+
+/* about.html */
+/* start form section */
+.about-form{
+        margin-top: 107px;
+        margin-left: 320px;
+}
+/* end form section */
+
+/* sign.html */
+/* start sign section */
+.sign-form{
+        margin-top: 20px;
+        margin-left: 318px;
+}
+/* end sign section */
+
+
+/* @media only screen and(max-width:576px)
+{
+        .home-content .content{
+                
+                margin-left: 40px;
+               
+
+        }
+} */
